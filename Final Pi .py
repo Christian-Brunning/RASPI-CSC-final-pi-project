@@ -29,4 +29,12 @@ elif (choice == " "):
     mixer.music.play()
     while mixer.music.get_busy():
         time.Clock().tick(10)
+elif (choice == " "):
+    mixer.init
+    mixer.music.load(" .mp3")
+    mixer.music.play()
+    while mixer.music.get_busy():
+        time.Clock().tick(10)
+        
+        
         
