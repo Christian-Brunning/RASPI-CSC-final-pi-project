@@ -42,7 +42,7 @@ if (choice == "Twinkle twinkle little star"):
         sleep(16)
         break
 elif (choice == "Humble and kind"):
-    mixer.init
+    mixer.init()
     mixer.music.load("Humble and kind.mp3")
     mixer.music.play()
     while mixer.music.get_busy():
