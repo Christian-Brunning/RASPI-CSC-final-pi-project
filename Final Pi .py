@@ -1,3 +1,9 @@
+####################################################################
+#Names: Calin Farmer
+#Date: 2/4/21
+#Assignment: Final Pi Project, Karaoke Machine
+####################################################################
+#must download pygame for this to work
 from pygame import mixer, time
 from time import sleep
 
