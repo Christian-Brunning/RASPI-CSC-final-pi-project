@@ -22,7 +22,17 @@ song2 = [" ", "You know there's a light that glows by the front door", "Don't fo
         "Don't take for granted the love this life gives you", "When you get where you're goin' don't forget turn back around", "And help the next one in line", \
         "Always stay humble and kind"]
 
-song3 = [" ", ]
+song3 = [" ","Baby, lay on back and relax", "Kick your pretty feet up on my dash", "No need to go nowhere fast", "let's enjoy right here where we at", \
+        "Who knows where this road is supposed to lead?", "We got nothing but time", "As long as you're right here next to me, everything's gonna be alright",\
+        "If it's meant to be, it'll be, it'll be", "Baby, just let it be", "If it's meant to be, it'll be, it'll be", "Baby, just let it be" "So won't you ride with me, ride with me?",\
+        "See where this thing goes", "If it's meant to be, it'll be, it'll be", "Baby, if it's meant to be", \
+        "I don't mean to be so uptight","But my heart's been hurt a couple times by a couple guys that didn't treat me right", "I ain't gon' lie, ain't gon' lie", "Cause I'm tired of the fake love, show me what you're made of ", "Boy, make me believe" \
+        "Oh, hold up girl, don't you know you're beautiful?", "And it's easy to see", "If it's meant to be, it'll be, it'll be" , "Baby, just let it be" , "If it's meant to be, it'll be, it'll be", "Baby just let it be",\ 
+        "So won't you ride with me, ride with me?", "See where this thing goes", "If it's meant to be, it'll be, it'll be", "Baby, if it's meant to be", "So c'mon ride with me, ride with me", "See where this thing goes", "So c'mon ride with me, ride with me", "Baby, if it's meant to be",\
+        "Maybe we do", "Maybe we don't", "Maybe we will", "Maybe we won't", \
+        "But if it's meant to be, it'll be, it'll be", "Baby, just let it be (sing it baby)", "If it's meant to be, it'll be, it'll be (c'mon)",  "Baby, just let it be (let's go)", "So won't you ride with me, ride with me?",\
+        "See where this thing goes", "If it's meant to be, it'll be, it'll be" ,"Baby, if it's meant to be" ,"If it's meant to be, it'll be, it'll be", "Baby, if it's meant to be", "If it's meant to be, it'll be, it'll be", "Baby, if it's meant to be" ]
+        
 
 choice = input("What song would you like to play: Twinkle twinkle little star, ")
 if (choice == "Twinkle twinkle little star"):
@@ -54,3 +64,4 @@ elif (choice == "Humble and kind"):
         break
         
         
+elif (choice == "Meant To Be" )
